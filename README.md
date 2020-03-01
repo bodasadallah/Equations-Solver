@@ -4,8 +4,7 @@ First u Enter the number of variables, then  Enter the Equations.
 the Project descriptiopn is in the PDF file.
 Heere is some Examples:
 ```
-```
-```
+
 Examples:
 6
 abc+def-2hi+j+3k=4
