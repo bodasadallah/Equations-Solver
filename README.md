@@ -2,7 +2,7 @@
 This is an Equation Solver 
 First u Enter the number of variables, then  Enter the Equations.
 the Project descriptiopn is in the PDF file.
-Heere is some Examples:
+Here is some Examples:
 ```
 
 Examples:
